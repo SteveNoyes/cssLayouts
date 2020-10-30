@@ -104,3 +104,27 @@ aside {
   flex: 0 0 130px;
   padding: 0 10px;
 }
+
+
+
+
+
+
+.contain {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  height: 250px;
+  padding: 10px;
+	background: #fff;
+	margin: 45px;
+}
+
+
+.item {
+  color: #fff;
+	padding: 25px;
+	margin: 5px;
+	background: #3db5da;
+	border-radius: 3px;
+}
